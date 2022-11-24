@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cN-joLkw8c3--asSyckYLgzWSU-ISJKv/view?usp=sharing](https://drive.google.com/file/d/1cN-joLkw8c3--asSyckYLgzWSU-ISJKv/view?usp=sharing)
 
-- ⚡ Fun fact **In my opinion, I'm a very ambitious person.**
+- ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
