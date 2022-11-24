@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mucahidsozeri
 - 👀 I’m interested in Web Development and Python programming
-- 🌱 I’m currently learning web development programming languages such as Javascript.
+- 🌱 I’m currently learning Machine Learning & Data Science using Python programming libraries such as Sci-Kit Learn, Pandas, Numpy.
 - 📫 How to reach me Gmail : mucahid6117@gmail.com
 
 <!---
