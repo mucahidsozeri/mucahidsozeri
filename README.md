@@ -41,7 +41,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucahidsozeri&" alt="mucahidsozeri" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/viewuid=1qgudnvmunh3ygyphwqahu972&cover_image=true&theme=default&show_offline=false&background_color=121212)(https://github.com/kittinan/spotify-github-profile)
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1qgudnvmunh3ygyphwqahu972&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
 
 <!---
 mucahidsozeri/mucahidsozeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
